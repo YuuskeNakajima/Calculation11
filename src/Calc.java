@@ -16,6 +16,7 @@ public class Calc {
 	}
 	
 	public static void printSub(int arg1, int arg2) {
+//		第一引数から第二引数を引いた結果を出力する
 		out.println(arg1 - arg2);
 	}
 
