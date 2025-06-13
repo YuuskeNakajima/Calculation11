@@ -3,8 +3,8 @@ import static java.lang.System.*;
 public class Calc {
 
 	public static void main(String[] args) {
-		int x = 15;
-		int y = 10;
+		int x = 100;
+		int y = 50;
 		printAdd(x, y);
 		printSub(x, y);
 
